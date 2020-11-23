@@ -11,4 +11,5 @@ In a previous life, I was an postgrad in CSE at IIT-Guwahati where I worked with
 
 <hr/>
 
-If you like this layout/page, see <a href='demo-post'>this</a> to build your own using github+jekyll 
+If you like this layout/page, see <a href='demo-post'>this</a> to build your own using github+jekyll <br/>
+Thanks to <a href="https://github.com/vrama91/vrama91.github.io">Ramakrishna Vedantam</a> for the website template.
