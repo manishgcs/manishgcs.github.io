@@ -11,7 +11,7 @@ title: Graduate Courses
   <li> Formal Methods</li>
   <li> Compuatational Photography</li>
   <li> Robotics</li>
-  <li> Intelligent Embedded Systems</li>
+  <li> Programming Intelligent Physical Systems</li>
   <li> Safe Autonomy</li>
-  <li> Algorithm Analysis<li>
+  <li> Algorithm Analysis</li>
 </ol>
