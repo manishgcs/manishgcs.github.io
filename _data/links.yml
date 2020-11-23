@@ -1,8 +1,12 @@
 - url: /
   title: Home
 
+- url: /projects
+  title: Projects
+  
 - url: /publications
   title: Publications
 
 - url: /docs/Manish_Goyal_UNC.pdf
   title: CV
+  
