@@ -55,7 +55,7 @@ O. Maler, C. Le Guernic, A. Girard<br/>
 		Computational Modeling and Analysis for Complex Systems, 2011 <br/>
 	</li>
 	<li>[MULTI'11] <em>M. Goyal</em>, G. Frehse<br/>
-		Translation between CIF and SpaceEx/PHAVer</b><br/>
+		<b>Translation between CIF and SpaceEx/PHAVer</b><br/>
 		MULTIFORM Deliverable D1.3.1, Verimag, 2011 <br/>
 	</li>
 </ol>
