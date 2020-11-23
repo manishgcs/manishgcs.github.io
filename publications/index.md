@@ -12,9 +12,17 @@ layout: page
 
 <h2>Peer-reviwed Publications</h2>
 <ol>
-	<li><a href="">[ATVA'20]</a> <em>Manish Goyal</em>, Parasara Sridhar Duggirala<br/>
-	NeuralExplorer: State Space Exploration of Closed Loop Control Systems Using Neural Networks<br/>
-	International Symposium on Automated Technology for Verification and Analysis, 2020 <br/>
+	<li><a href="https://link.springer.com/chapter/10.1007/978-3-030-59152-6_4" target="_blank">[ATVA'20]</a> <em>Manish Goyal</em>, Parasara S. Duggirala<br/>
+		<b>NeuralExplorer: State Space Exploration of Closed Loop Control Systems Using Neural Networks</b><br/>
+	International Symposium on Automated Technology for Verification and Analysis, Oct. 2020 <br/>
+	</li>
+	<li><a href="http://www.sciencedirect.com/science/article/pii/S000510982030203X" target="_blank">[AUT'20]</a> <em>Manish Goyal</em>, Parasara S. Duggirala<br/>
+		<b>Extracting Counterexamples Induced by Safety Violation in Linear Hybrid Systems</b><br/>
+	Automatica, 117(5), Jul. 2020 <br/>
+	</li>
+	<li><a href="https://ieeexplore.ieee.org/document/9147430" target="_blank">[ATVA'20]</a> <em>Manish Goyal</em>, D. Bergman, Parasara S. Duggirala<br/>
+		<b>Generating Longest Counterexample: On the Cross-roads of Mixed Integer Linear Programming and SMT</b><br/>
+	American Control Conference, Jul. 2020 <br/>
 	</li>
 </ol>
 <sup>*</sup> Equal Contribution <br/>
