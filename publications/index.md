@@ -45,16 +45,16 @@ layout: page
 
 <h2>Workshop/Other Artifacts</h2>
 <ol>
-	<li>[DARS'19] <em>M. Goyal</em>, P. S. Duggirala<br/>
+	<li><a href="https://sites.google.com/view/dars2019/abstracts">[DARS'19]</a> <em>M. Goyal</em>, P. S. Duggirala<br/>
 		<b> Learning Robustness of Nonlinear Systems Using Neural Networks </b><br/>
 		Design and Analysis of Robust Systems, 2019 <br/>
 	</li>
-	<li>[CMACS'11] G. Frehse, A. Donzé, S. Cotton, R. Ray, O. Lebeltel, <em>M. Goyal</em>, R. Ripado, T. Dang,
+	<li><a href = "http://cmacs.cs.cmu.edu/seminars/slides/frehse.pdf">[CMACS'11]</a> G. Frehse, A. Donzé, S. Cotton, R. Ray, O. Lebeltel, <em>M. Goyal</em>, R. Ripado, T. Dang,
 O. Maler, C. Le Guernic, A. Girard<br/>
 		<b> Safety Analysis of Hybrid Systems with SpaceEx </b><br/>
 		Computational Modeling and Analysis for Complex Systems, 2011 <br/>
 	</li>
-	<li>[MULTI'11] <em>M. Goyal</em>, G. Frehse<br/>
+	<li><a href = "http://spaceex.imag.fr/sites/default/files/cif_to_sx_translation_report_0.pdf">[MULTI'11] </a> <em>M. Goyal</em>, G. Frehse<br/>
 		<b>Translation between CIF and SpaceEx/PHAVer</b><br/>
 		MULTIFORM Deliverable D1.3.1, Verimag, 2011 <br/>
 	</li>
