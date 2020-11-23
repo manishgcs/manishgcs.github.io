@@ -1,6 +1,7 @@
 # markdown: redcarpet
 markdown: kramdown
-highlighter: pygments
+# highlighter: pygments
+highlighter: rouge
 permalink: /:title
 
 url: http://manishgcs.github.io
