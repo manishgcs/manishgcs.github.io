@@ -19,4 +19,10 @@ In this work, we propose a framework for performing state space exploration of c
 
 <p align="center"> <img width="420" src="/public/images/fig-inv-sen-basic.png" alt="reachTarget using inverse sensitivity"/> </p>
 </li>
+
+<h1><li>CGLP: Concurrency group based locking protocol</h1><br/>
+<a href="https://dl.acm.org/doi/10.1145/3356401.3356404" target="_blank">[RTNS'19]</a><br/>
+
+When designing a real-time multiprocessor locking protocol, the allowance of lock nesting creates complications that can inhibit parallelism. Such protocols are typically designed by focusing on the arbitration of resource requests that should be <i>prohibited</i> from executing concurrently. In this work, we  propose concurrency groups, a new concept that reflects an alternative point of view that focuses instead on requests that can be <i>allowed</i> to execute concurrently.  A <i>concurrency group</i> is simply a group of lock requests, determined offline, that can safely execute together. This work's main contribution is the \cglp, a new real-time multiprocessor locking protocol that supports lock nesting through the use of concurrency groups. The \cglp is able to reap runtime parallelism benefits that have eluded prior protocols by investing effort offline in the construction of concurrency groups. A schedulability study is presented to quantify these benefits, as well as an approach to determining such groups using an Integer Linear Program (ILP) solver, which we show to be efficient in practice.
+</li>
 </ol>
