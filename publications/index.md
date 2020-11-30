@@ -20,7 +20,7 @@ layout: page
 		<b>Extracting Counterexamples Induced by Safety Violation in Linear Hybrid Systems</b><br/>
 	Automatica, vol 117(5), 2020 <br/>
 	</li>
-	<li><a href="https://ieeexplore.ieee.org/document/9147430" target="_blank">[ATVA'20]</a> <em>M. Goyal</em>, D. Bergman, P. S. Duggirala<br/>
+	<li><a href="https://ieeexplore.ieee.org/document/9147430" target="_blank">[ACC'20]</a> <em>M. Goyal</em>, D. Bergman, P. S. Duggirala<br/>
 		<b>Generating Longest Counterexample: On the Cross-roads of Mixed Integer Linear Programming and SMT</b><br/>
 	American Control Conference, 2020 <br/>
 	</li>
