@@ -12,6 +12,9 @@ layout: page
 
 <h2>Peer-reviewed Publications</h2>
 <ol>
+	<li>[RTS'20] C. Nemitz, T. Amert, <em>M. Goyal</em>, J. Anderson<br/>
+		<b>Concurrency Groups: A New Way to Look at Real-Time Multiprocessor Lock Nesting</b><br/>
+		Real-Time Systems, special issue of outstanding papers from RTNS 2019, To appear. <br/>
 	<li><a href="https://link.springer.com/chapter/10.1007/978-3-030-59152-6_4" target="_blank">[ATVA'20]</a> <em>M. Goyal</em>, P. S. Duggirala<br/>
 		<b>NeuralExplorer: State Space Exploration of Closed Loop Control Systems Using Neural Networks</b><br/>
 	International Symposium on Automated Technology for Verification and Analysis, 2020 <br/>
