@@ -43,7 +43,6 @@ layout: page
 		<b>Reachability Analysis of Hybrid Systems: An Experience Report</b><br/>
 	International Journal of Modeling and Optimization, vol 2(6), 2012 <br/>
 	</li>
-	
 </ol>
 
 <h2>Workshop/Other Artifacts</h2>
@@ -52,8 +51,7 @@ layout: page
 		<b> Learning Robustness of Nonlinear Systems Using Neural Networks </b><br/>
 		Design and Analysis of Robust Systems, 2019 <br/>
 	</li>
-	<li><a href = "http://cmacs.cs.cmu.edu/seminars/slides/frehse.pdf">[CMACS'11]</a> G. Frehse, A. Donzé, S. Cotton, R. Ray, O. Lebeltel, <em>M. Goyal</em>, R. Ripado, T. Dang,
-O. Maler, C. Le Guernic, A. Girard<br/>
+	<li><a href = "http://cmacs.cs.cmu.edu/seminars/slides/frehse.pdf">[CMACS'11]</a> G. Frehse, A. Donzé, S. Cotton, R. Ray, O. Lebeltel, <em>M. Goyal</em>, R. Ripado, T. Dang, O. Maler, C. Le Guernic, A. Girard<br/>
 		<b> Safety Analysis of Hybrid Systems with SpaceEx </b><br/>
 		Computational Modeling and Analysis for Complex Systems, 2011 <br/>
 	</li>
